@@ -41,7 +41,7 @@ Futuramente
 
 
 # Equipe
-![Equipe](https://github.com/AndreLuizRibeiro/Template/blob/main/.img/gettyimages-1380215929-612x612.jpg?raw=true)
+![Equipe](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/main/img/membros_foto.jpg?raw=true)
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
