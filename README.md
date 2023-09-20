@@ -50,7 +50,7 @@ Este projeto tem como objetivo apresentar uma solução interativa de informaç�
 
  
 
-# Funcionalidades e registros (vídeos e apresentações) das sprints
+# Funcionalidades e registros
 
 
 <p align="center">
@@ -136,14 +136,14 @@ User stories
 - [ ] Relação de Dados Segunda Tela;
       
 ## Sprint 2 . Implementação
-- [x] Documentação Sprint 2;
-- [x] Relação entre município e o estado de São Paulo;
-- [x] Criação do storytelling básico para terceira tela;
+- [ ] Documentação Sprint 2;
+- [ ] Relação entre município e o estado de São Paulo;
+- [ ] Criação do storytelling básico para terceira tela;
       
 ## Sprint 3. Operacionalização
-- [x] Documentação Sprint 3;
-- [x] Detalhar Sobre uma carga de São José dos Campos;
-- [x] Criação do storytelling básico para quarta tela;
+- [ ] Documentação Sprint 3;
+- [ ] Detalhar Sobre uma carga de São José dos Campos;
+- [ ] Criação do storytelling básico para quarta tela;
 
 # Competências desenvolvidas
 
