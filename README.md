@@ -48,18 +48,15 @@ Criar base de dados relacional e Dashboard que permita: (i)identificar os modais
 
 Este projeto tem como objetivo apresentar uma solução interativa de informações com os modais mais utilizados de exportação e importação no estado de São Paulo. 
 
-
-
-  
+ 
 
 # Funcionalidades e registros (vídeos e apresentações) das sprints
 
-Apresentação das funcionalidades
-Confira a seguir uma demonstração das funcionalidades para cada tipo de usuário do sistema:
 
-Adicionar video e documentos nessa seção
+<p align="center">
+ <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
+</p>
 
-[![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
 
 ## Tecnologias Utilizadas
   ### Produto 
@@ -86,9 +83,9 @@ Exemplos:
 # Cronograma das Sprints
 
 ## Cronograma
-Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
+Ao clicar no link abaixo, será direcionado ao cronograma detalhado desse projeto. Onde estão todas as informações das tarefas: data, responsável, estágio e qual sprint pertence.
 
-#### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
+#### Cronograma das Sprints[(clique aqui)](#backlog)
 
 # Backlog do produto
   
@@ -118,46 +115,35 @@ User stories
 ![sprint backlog](https://github.com/RoqueMoura/Template/blob/main/.img/Burndown.PNG)
 
 
-## Sprint 1. Concepção
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+## Sprint 0. Concepção
+- [ ] Estruturação do GitHub;
+- [ ] Documentação Sprint 0;
+- [ ] Aprender GitHub;
+- [ ] Pergunta P.O;
+- [ ] testar a estimativa de tempo;
+- [ ] Aprender GitHub
+- [ ] 5W2H;
+- [ ] Estruturação das tasks no Jira Software;
+- [ ] Power Point no GitHub;
+- [ ] 
 
-## Sprint 2. Desenvolvimento do Projeto
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
+## Sprint 1. Desenvolvimento do Projeto
+- [ ] Documentação Sprint 1;
+- [ ] Obter e trabalhar dados de importação e exportação de São Paulo;
+- [ ] Criação do Mapa no Power BI e a representação dos fluxos importação e exportação de São Paulo;
+- [ ] Criação do storytelling básico para segunda tela;
+- [ ] Relação de Dados Primeira Tela;
+- [ ] Relação de Dados Segunda Tela;
       
-## Sprint 3 . Implementação
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+## Sprint 2 . Implementação
+- [x] Documentação Sprint 2;
+- [x] Relação entre município e o estado de São Paulo;
+- [x] Criação do storytelling básico para terceira tela;
       
-## Sprint 4. Operacionalização
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
-
+## Sprint 3. Operacionalização
+- [x] Documentação Sprint 3;
+- [x] Detalhar Sobre uma carga de São José dos Campos;
+- [x] Criação do storytelling básico para quarta tela;
 
 # Competências desenvolvidas
 
