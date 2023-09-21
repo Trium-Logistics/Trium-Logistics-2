@@ -91,8 +91,8 @@ Ao clicar no link abaixo, será direcionado ao cronograma detalhado desse projet
   
 <div align="center">
     
-![product backlog](https://user-images.githubusercontent.com/69374340/172057734-320d9e43-19e9-409a-8f2d-7d159a1aaa9a.png)
-![sprint backlog](https://user-images.githubusercontent.com/69374340/172057787-dcc1ecce-1b08-464b-850e-7019dc050056.png)
+![product backlog](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/main/img/backlog_produto.JPG?raw=true)
+![sprint backlog](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/main/img/backlog_produto_sprint0.jpg?raw=true)
 </div>
 
 Regras de Negócio
@@ -116,15 +116,15 @@ User stories
 
 
 ## Sprint 0. Concepção
-- [ ] Estruturação do GitHub;
+- [x] Estruturação do GitHub;
 - [ ] Documentação Sprint 0;
-- [ ] Aprender GitHub;
-- [ ] Pergunta P.O;
-- [ ] testar a estimativa de tempo;
-- [ ] Aprender GitHub
-- [ ] 5W2H;
-- [ ] Estruturação das tasks no Jira Software;
-- [ ] Power Point no GitHub;
+- [x] Aprender GitHub;
+- [x] Pergunta P.O;
+- [x] Testar a estimativa de tempo;
+- [x] Aprender GitHub
+- [x] 5W2H;
+- [x] Estruturação das tasks no Jira Software;
+- [x] Power Point no GitHub;
 
 ## Sprint 1. Desenvolvimento do Projeto
 - [ ] Documentação Sprint 1;
