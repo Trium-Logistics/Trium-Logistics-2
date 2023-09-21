@@ -40,7 +40,7 @@ Sprint | Previsão | Status| Histórico|
 
 
 # Equipe
-![Equipe](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/main/img/membros_foto.jpg?raw=true)
+![Equipe](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/main/img/membros_fotos.jpg?raw=true)
 
 # Objetivo do Projeto
 
