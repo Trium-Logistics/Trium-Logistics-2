@@ -78,7 +78,6 @@ Exemplos:
 ## Cronograma
 Ao clicar no link abaixo, será direcionado ao cronograma detalhado desse projeto. Onde estão todas as informações das tarefas: data, responsável, estágio e qual sprint pertence.
 
-#### Cronograma das Sprints[(clique aqui)](#backlog)
 
 # Backlog do produto
   
