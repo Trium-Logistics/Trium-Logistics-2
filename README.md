@@ -47,7 +47,6 @@ Criar base de dados relacional e Dashboard que permita: (i)identificar os modais
 Este projeto tem como objetivo apresentar uma solução interativa de informações com os modais mais utilizados de exportação e importação no estado de São Paulo. 
 
  
-
 # Funcionalidades e registros
 
 
@@ -72,7 +71,8 @@ Este projeto tem como objetivo apresentar uma solução interativa de informaç�
 > Liste todas as tecnologias referentes aos processos da API
 Exemplos: 
 - Backlog
-  
+  ![backlog_jira](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/main/img/backlog_sprint0_jira.png?raw=true)
+
 # Cronograma das Sprints
 
 ## Cronograma
