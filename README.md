@@ -1,4 +1,4 @@
-# Aprendizado por Projeto Integrado (API) - Template
+# Aprendizado por Projeto Integrado (API)
 
 Template para os projetos do curso de graduação em Logística, ensinando na utilização do repositório digital "GitHub". 
 
@@ -74,12 +74,7 @@ Este projeto tem como objetivo apresentar uma solução interativa de informaç�
 > Liste todas as tecnologias referentes aos processos da API
 Exemplos: 
 - Backlog
-- [![MVP](https://img.youtube.com/vi/Ipg6Ox6qlC8/0.jpg)](https://www.youtube.com/embed/Ipg6Ox6qlC8)
-- MVP
-- [![MVP](https://img.youtube.com/vi/BYAABeMllcM/0.jpg)](https://www.youtube.com/embed/BYAABeMllcM)
-- Scrum para iniciantes
-- [![Scrum para iniciantes](https://img.youtube.com/vi/1DkmzynmRHk/0.jpg)](https://www.youtube.com/embed/1DkmzynmRHk)
-
+  
 # Cronograma das Sprints
 
 ## Cronograma
@@ -117,7 +112,6 @@ User stories
 
 ## Sprint 0. Concepção
 - [x] Estruturação do GitHub;
-- [ ] Documentação Sprint 0;
 - [x] Aprender GitHub;
 - [x] Pergunta P.O;
 - [x] Testar a estimativa de tempo;
@@ -125,6 +119,7 @@ User stories
 - [x] 5W2H;
 - [x] Estruturação das tasks no Jira Software;
 - [x] Power Point no GitHub;
+- [ ] Documentação Sprint 0;
 
 ## Sprint 1. Desenvolvimento do Projeto
 - [ ] Documentação Sprint 1;
