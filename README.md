@@ -67,7 +67,6 @@ Este projeto tem como objetivo apresentar uma solução interativa de informaç�
 
 * 5W2H;
 * Jira Software:
-* Power BI:
 * GitHub.
  
   
