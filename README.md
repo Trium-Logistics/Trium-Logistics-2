@@ -71,7 +71,7 @@ Este projeto tem como objetivo apresentar uma solução interativa de informaç�
 > Liste todas as tecnologias referentes aos processos da API
 Exemplos: 
 - Backlog
-  ![backlog_jira](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/main/img/backlog_sprint0_jira.png?raw=true)
+  ![backlog_jira](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/main/img/backlog_sprint_0_jira.PNG?raw=true)
 
 # Cronograma das Sprints
 
