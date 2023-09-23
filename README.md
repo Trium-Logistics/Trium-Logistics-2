@@ -12,6 +12,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Cronograma das Sprints](#cronograma-das-sprints)
 * [Backlog do produto](#backlog-do-produto)
 * [Burndown](#burndown)
+* [Burnup](#burnup)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
@@ -104,7 +105,11 @@ Requisitos não funcionais
 User stories
 
 # Burndown
-![sprint backlog](https://github.com/RoqueMoura/Template/blob/main/.img/Burndown.PNG)
+![burndown](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/main/img/burndown_sprint_0.jpeg?raw=true)
+
+
+# Burnup
+![brunup](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/main/img/burnup_sprint_0.jpeg?raw=true)
 
 
 ## Sprint 0. Concepção
