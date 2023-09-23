@@ -116,7 +116,7 @@ User stories
 - [x] 5W2H;
 - [x] Estruturação das tasks no Jira Software;
 - [x] Power Point no GitHub;
-- [ ] Documentação Sprint 0;
+- [x] Documentação Sprint 0;
 
 ## Sprint 1. Desenvolvimento do Projeto
 - [ ] Documentação Sprint 1;
