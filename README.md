@@ -81,6 +81,8 @@ Este projeto tem como objetivo apresentar uma solução interativa de informaç�
 ## Cronograma
 Ao clicar no link abaixo, será direcionado ao cronograma detalhado desse projeto. Onde estão todas as informações das tarefas: data, responsável, estágio e qual sprint pertence.
 
+#### Para acessar o cronograma das sprints clique [aqui](https://triumlogistics03.atlassian.net/jira/software/projects/TL/boards/1/timeline).
+
 
 # Backlog do produto
   
