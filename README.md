@@ -30,9 +30,6 @@ Sprint | Previsão | Status| Histórico|
 |03| 29/11/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
-# Equipe
-![Equipe](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/main/img/membros_fotos.jpg?raw=true)
-
 # Objetivo do Projeto
 
 Criar base de dados relacional e Dashboard que permita: (i)identificar os modais utilizados nos trâmites internacionais de movimentação de cargas e (ii) desenhar a geografia do fluxo da carga para importação e exportação.
@@ -167,6 +164,12 @@ User stories
 </details>
 
 # Autores
+
+
+![Equipe](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/main/img/membros_fotos.jpg?raw=true)
+
+
+
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |   Ezenildo Campos         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ezenildo-campos-81043b266/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Ezenildo-Campos)              |
@@ -175,4 +178,5 @@ User stories
 |  Team Member  | Marcelo Uchôas                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-uch%C3%B4as-de-oliveira-b2536a18b/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/marcelouchoas)        |
 |  Team Member  | Márcia Soares                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/m%C3%A1rcia-soares-de-almeida-22814814a/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/marciasoaresa)   |
 |  Team Member  | Emily Job                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emily-job-316851292) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Emilymjob)   |
+
 
