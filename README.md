@@ -115,12 +115,12 @@ User stories
 - [x] Documentação Sprint 0;
 
 ## Sprint 1. Desenvolvimento do Projeto
-- [ ] Documentação Sprint 1;
-- [ ] Obter e trabalhar dados de importação e exportação de São Paulo;
-- [ ] Criação do Mapa no Power BI e a representação dos fluxos importação e exportação de São Paulo;
-- [ ] Criação do storytelling básico para segunda tela;
-- [ ] Relação de Dados Primeira Tela;
-- [ ] Relação de Dados Segunda Tela;
+- [x] Documentação Sprint 1;
+- [x] Obter e trabalhar dados de importação e exportação de São Paulo;
+- [x] Criação do Mapa no Power BI e a representação dos fluxos importação e exportação de São Paulo;
+- [x] Criação do storytelling básico para segunda tela;
+- [x] Relação de Dados Primeira Tela;
+- [x] Relação de Dados Segunda Tela;
       
 ## Sprint 2 . Implementação
 - [ ] Documentação Sprint 2;
