@@ -96,11 +96,11 @@ Requisitos não funcionais
 User stories
 
 # Burndown
-![burndown](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/main/img/burndown_sprint_0.jpeg?raw=true)
+![burndown](https://raw.githubusercontent.com/Trium-Logistics/Trium-Logistics-2/Sprint1/img/brundown_sprint_1.png)
 
 
 # Burnup
-![brunup](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/main/img/burnup_sprint_0.jpeg?raw=true)
+![brunup](https://raw.githubusercontent.com/Trium-Logistics/Trium-Logistics-2/Sprint1/img/burnup_sprint_1.png)
 
 
 ## Sprint 0. Concepção
