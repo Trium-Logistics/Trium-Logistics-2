@@ -24,8 +24,8 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 06/09/2023 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|00 | 25/09/2023 | em progresso| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|01|  18/10/2023| a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|00 | 25/09/2023 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|01|  18/10/2023| em progresso |[Ver Relatório](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/Sprint1/doc/Relat%C3%B3rio%20Sprint%201-%20Trium%20Logistics.docx) | 
 |02| 08/11/2023 | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |03| 29/11/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
@@ -96,11 +96,11 @@ Requisitos não funcionais
 User stories
 
 # Burndown
-![burndown](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/main/img/burndown_sprint_0.jpeg?raw=true)
+![burndown](https://raw.githubusercontent.com/Trium-Logistics/Trium-Logistics-2/Sprint1/img/brundown_sprint_1.png)
 
 
 # Burnup
-![brunup](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/main/img/burnup_sprint_0.jpeg?raw=true)
+![brunup](https://raw.githubusercontent.com/Trium-Logistics/Trium-Logistics-2/Sprint1/img/burnup_sprint_1.png)
 
 
 ## Sprint 0. Concepção
@@ -115,12 +115,12 @@ User stories
 - [x] Documentação Sprint 0;
 
 ## Sprint 1. Desenvolvimento do Projeto
-- [ ] Documentação Sprint 1;
-- [ ] Obter e trabalhar dados de importação e exportação de São Paulo;
-- [ ] Criação do Mapa no Power BI e a representação dos fluxos importação e exportação de São Paulo;
-- [ ] Criação do storytelling básico para segunda tela;
-- [ ] Relação de Dados Primeira Tela;
-- [ ] Relação de Dados Segunda Tela;
+- [x] Documentação Sprint 1;
+- [x] Obter e trabalhar dados de importação e exportação de São Paulo;
+- [x] Criação do Mapa no Power BI e a representação dos fluxos importação e exportação de São Paulo;
+- [x] Criação do storytelling básico para segunda tela;
+- [x] Relação de Dados Primeira Tela;
+- [x] Relação de Dados Segunda Tela;
       
 ## Sprint 2 . Implementação
 - [ ] Documentação Sprint 2;
