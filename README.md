@@ -63,7 +63,7 @@ Este projeto tem como objetivo apresentar uma solução interativa de informaç�
  ### Mindset Digital
  
 - Backlog
-  ![backlog_jira](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/main/img/backlog_sprint_0_jira.jpeg?raw=true)
+  ![backlog_jira](https://raw.githubusercontent.com/Trium-Logistics/Trium-Logistics-2/Sprint1/img/backlog_sprint_1_jira.png)
 
 # Cronograma das Sprints
 
