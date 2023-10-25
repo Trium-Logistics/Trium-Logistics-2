@@ -48,16 +48,24 @@ Este projeto tem como objetivo apresentar uma solução interativa de informaç�
 ## Tecnologias Utilizadas
   ### Produto 
   
-<p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
-</p>
+
+* Link para acessar o produto:
+
+https://app.powerbi.com/groups/me/reports/fe9772d8-ddc1-4158-a5d2-2840efa253ab/ReportSection2d76c8229517f2ace5ec?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&experience=power-bi
+
+
+### Base de dados
+
+![base_de_dados](https://raw.githubusercontent.com/Trium-Logistics/Trium-Logistics-2/Sprint1/img/base_dados.jpeg)
 
 
  ### Tecnológias Específicas/Apoio
 
 * 5W2H;
-* Jira Software:
-* GitHub.
+* Jira Software;
+* GitHub;
+* Power Bi;
+* Excel.
  
   
  ### Mindset Digital
@@ -78,7 +86,7 @@ Ao clicar no link abaixo, será direcionado ao cronograma detalhado desse projet
 <div align="center">
     
 ![product backlog](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/main/img/backlog_produto.JPG?raw=true)
-![sprint backlog](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/main/img/backlog_produto_sprint0.jpg?raw=true)
+![sprint backlog](https://raw.githubusercontent.com/Trium-Logistics/Trium-Logistics-2/Sprint1/img/backlog_sprint_1.png)
 </div>
 
 Regras de Negócio
