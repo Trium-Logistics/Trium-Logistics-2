@@ -56,7 +56,7 @@ https://app.powerbi.com/groups/me/reports/fe9772d8-ddc1-4158-a5d2-2840efa253ab/R
 
 ### Base de dados
 
-(https://raw.githubusercontent.com/Trium-Logistics/Trium-Logistics-2/Sprint1/img/base_dados.jpeg)
+![base_de_dados](https://raw.githubusercontent.com/Trium-Logistics/Trium-Logistics-2/Sprint1/img/base_dados.jpeg)
 
 
  ### Tecnológias Específicas/Apoio
