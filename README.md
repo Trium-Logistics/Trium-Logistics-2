@@ -25,7 +25,7 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 06/09/2023 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |00 | 25/09/2023 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|01|  18/10/2023| em progresso |[Ver Relatório](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/Sprint1/doc/Relat%C3%B3rio%20Sprint%201-%20Trium%20Logistics.docx) | 
+|01|  18/10/2023| concluido |[Ver Relatório](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/Sprint1/doc/Relat%C3%B3rio%20Sprint%201%20Final%20-%20Trium%20Logistics.pdf) | 
 |02| 08/11/2023 | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |03| 29/11/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
@@ -153,6 +153,7 @@ User stories
 | Scrum Master | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Markdown | ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Power BI | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
  
 </details>
 
