@@ -1,4 +1,4 @@
-# Aprendizado por Projeto Integrado (API)
+![image](https://github.com/Trium-Logistics/Trium-Logistics-2/assets/56437644/ae52a7f1-cce3-4d2b-96ff-1711bb92fe5d)# Aprendizado por Projeto Integrado (API)
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
 
@@ -86,7 +86,7 @@ Ao clicar no link abaixo, será direcionado ao cronograma detalhado desse projet
 <div align="center">
     
 ![product backlog](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/main/img/backlog_produto.JPG?raw=true)
-![sprint backlog](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/main/img/backlog_produto_sprint0.jpg?raw=true)
+![sprint backlog](https://raw.githubusercontent.com/Trium-Logistics/Trium-Logistics-2/Sprint1/img/backlog_sprint_1.png)
 </div>
 
 Regras de Negócio
