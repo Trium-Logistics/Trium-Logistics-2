@@ -48,9 +48,10 @@ Este projeto tem como objetivo apresentar uma solução interativa de informaç�
 ## Tecnologias Utilizadas
   ### Produto 
   
-<p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
-</p>
+
+* Link para acessar o produto:
+
+https://app.powerbi.com/groups/me/reports/fe9772d8-ddc1-4158-a5d2-2840efa253ab/ReportSection2d76c8229517f2ace5ec?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&experience=power-bi
 
 
  ### Tecnológias Específicas/Apoio
