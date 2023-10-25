@@ -62,8 +62,10 @@ https://app.powerbi.com/groups/me/reports/fe9772d8-ddc1-4158-a5d2-2840efa253ab/R
  ### Tecnológias Específicas/Apoio
 
 * 5W2H;
-* Jira Software:
-* GitHub.
+* Jira Software;
+* GitHub;
+* Power Bi;
+* Excel.
  
   
  ### Mindset Digital
