@@ -75,7 +75,6 @@ https://app.powerbi.com/groups/me/reports/fe9772d8-ddc1-4158-a5d2-2840efa253ab/R
 <div align="center">
     
 ![product backlog](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/main/img/backlog_produto.JPG?raw=true)
-![sprint backlog](https://raw.githubusercontent.com/Trium-Logistics/Trium-Logistics-2/Sprint1/img/backlog_sprint_1.png)
 </div>
 
 Regras de Negócio
