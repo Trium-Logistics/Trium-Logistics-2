@@ -70,17 +70,6 @@ https://app.powerbi.com/groups/me/reports/fe9772d8-ddc1-4158-a5d2-2840efa253ab/R
   
  ### Mindset Digital
  
-- Backlog
-  ![backlog_jira](https://raw.githubusercontent.com/Trium-Logistics/Trium-Logistics-2/Sprint1/img/backlog_sprint_1_jira.png)
-
-# Cronograma das Sprints
-
-## Cronograma
-Ao clicar no link abaixo, será direcionado ao cronograma detalhado desse projeto. Onde estão todas as informações das tarefas: data, responsável, estágio e qual sprint pertence.
-
-#### Para acessar o cronograma das sprints clique [aqui](https://triumlogistics03.atlassian.net/jira/software/projects/TL/boards/1/timeline).
-
-
 # Backlog do produto
   
 <div align="center">
@@ -101,15 +90,6 @@ Requisitos não funcionais
 - Metodologias ágil
 - Jira / 5W2H / PowerPoint
   
-User stories
-
-# Burndown
-![burndown](https://raw.githubusercontent.com/Trium-Logistics/Trium-Logistics-2/Sprint1/img/brundown_sprint_1.png)
-
-
-# Burnup
-![brunup](https://raw.githubusercontent.com/Trium-Logistics/Trium-Logistics-2/Sprint1/img/burnup_sprint_1.png)
-
 
 ## Sprint 0. Concepção
 - [x] Estruturação do GitHub;
