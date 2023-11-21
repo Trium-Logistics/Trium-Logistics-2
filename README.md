@@ -30,6 +30,12 @@ Sprint | Previsão | Status| Histórico|
 |03| 29/11/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
+# Links para acessar as Sprints
+
+* Para acessar as Sprint 0 clique [aqui](https://github.com/Trium-Logistics/Trium-Logistics-2/tree/Sprint0).
+* Para acessar as Sprint 0 clique [aqui](https://github.com/Trium-Logistics/Trium-Logistics-2/tree/Sprint1).
+* Para acessar as Sprint 0 clique [aqui](https://github.com/Trium-Logistics/Trium-Logistics-2/tree/Sprint2).
+
 # Objetivo do Projeto
 
 Criar base de dados relacional e Dashboard que permita: (i)identificar os modais utilizados nos trâmites internacionais de movimentação de cargas e (ii) desenhar a geografia do fluxo da carga para importação e exportação.
