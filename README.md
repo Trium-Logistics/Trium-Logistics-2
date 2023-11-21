@@ -58,6 +58,19 @@ https://fatecspgov-my.sharepoint.com/:f:/g/personal/marcelo_oliveira102_fatec_sp
 
 ![base_de_dados](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/Sprint2/img/database_sprint_2.jpeg?raw=true)
 
+### Funções DAX dos produtos
+
+
+![dax jundiai](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/Sprint2/img/DAX_jundiai.jpeg?raw=true)
+Jundiaí
+
+
+![dax tauabte](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/Sprint2/img/DAX_taubate.jpeg?raw=true)
+Taubaté
+
+
+![dax sorocaba](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/Sprint2/img/DAX_sorocaba.jpeg?raw=true)
+Sorocaba
 
  ### Tecnológias Específicas/Apoio
 
