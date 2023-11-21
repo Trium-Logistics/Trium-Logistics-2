@@ -85,7 +85,16 @@ Requisitos não funcionais
 - Usar tecnologias especifícas/apoio/tecnológicas
 - Metodologias ágil
 - Jira / 5W2H / PowerPoint
-  
+
+User stories
+
+# Burndown
+![burndown](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/Sprint2/img/burnup_sprint_2.png?raw=true)
+
+
+# Burnup
+![brunup](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/Sprint2/img/burndown_sprint_2.png?raw=true)
+
 
 ## Sprint 0. Concepção
 - [x] Estruturação do GitHub;
