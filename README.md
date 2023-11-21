@@ -51,12 +51,12 @@ Este projeto tem como objetivo apresentar uma solução interativa de informaç�
 
 * Link para acessar o produto:
 
-https://app.powerbi.com/groups/me/reports/fe9772d8-ddc1-4158-a5d2-2840efa253ab/ReportSection2d76c8229517f2ace5ec?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&experience=power-bi
+https://fatecspgov-my.sharepoint.com/:f:/g/personal/marcelo_oliveira102_fatec_sp_gov_br/EtYCVG7t1MhOuIYeNwKkP10BEiwskbrLUSXLAPqkqi-KKg?e=0aMH1s
 
 
 ### Base de dados
 
-![base_de_dados](https://raw.githubusercontent.com/Trium-Logistics/Trium-Logistics-2/Sprint1/img/base_dados.jpeg)
+![base_de_dados](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/Sprint2/img/database_sprint_2.jpeg?raw=true)
 
 
  ### Tecnológias Específicas/Apoio
@@ -71,7 +71,7 @@ https://app.powerbi.com/groups/me/reports/fe9772d8-ddc1-4158-a5d2-2840efa253ab/R
   
 <div align="center">
     
-![product backlog](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/main/img/backlog_produto.JPG?raw=true)
+![product backlog](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/Sprint2/img/backlog_sprint_2.jpeg?raw=true)
 </div>
 
 Regras de Negócio
@@ -107,9 +107,13 @@ Requisitos não funcionais
 - [x] Relação de Dados Segunda Tela;
       
 ## Sprint 2 . Implementação
-- [ ] Documentação Sprint 2;
-- [ ] Relação entre município e o estado de São Paulo;
-- [ ] Criação do storytelling básico para terceira tela;
+- [x] Documentação Sprint 2;
+- [x] Relação entre município e o estado de São Paulo;
+- [x] Criação do storytelling básico para terceira tela;
+- [x] Restruturação da base de dados;
+- [x] Estruturação do 5w2h;
+- [x] Relação das cidades Taubaté, Jundiaí e Sorocaba;
+- [x] Aplicar probabilidade para desenvolver a fórmula em DAX;
       
 ## Sprint 3. Operacionalização
 - [ ] Documentação Sprint 3;
