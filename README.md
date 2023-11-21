@@ -107,9 +107,13 @@ Requisitos não funcionais
 - [x] Relação de Dados Segunda Tela;
       
 ## Sprint 2 . Implementação
-- [ ] Documentação Sprint 2;
-- [ ] Relação entre município e o estado de São Paulo;
-- [ ] Criação do storytelling básico para terceira tela;
+- [x] Documentação Sprint 2;
+- [x] Relação entre município e o estado de São Paulo;
+- [x] Criação do storytelling básico para terceira tela;
+- [x] Restruturação da base de dados;
+- [x] Estruturação do 5w2h;
+- [x] Relação das cidades Taubaté, Jundiaí e Sorocaba;
+- [x] Aplicar probabilidade para desenvolver a fórmula em DAX;
       
 ## Sprint 3. Operacionalização
 - [ ] Documentação Sprint 3;
