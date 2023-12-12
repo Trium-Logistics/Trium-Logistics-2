@@ -26,15 +26,9 @@ Sprint | Previsão | Status| Histórico|
 |Kick Off | 06/09/2023 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |00 | 25/09/2023 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |01|  18/10/2023| concluido |[Ver Relatório](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/Sprint1/doc/Relat%C3%B3rio%20Sprint%201%20Final%20-%20Trium%20Logistics.pdf) | 
-|02| 08/11/2023 | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03| 29/11/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
+|02| 08/11/2023 | concluido |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|03| 29/11/2023 | em andamento |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-
-# Links para acessar as Sprints
-
-* Para acessar as Sprint 0 clique [aqui](https://github.com/Trium-Logistics/Trium-Logistics-2/tree/Sprint0).
-* Para acessar as Sprint 1 clique [aqui](https://github.com/Trium-Logistics/Trium-Logistics-2/tree/Sprint1).
-* Para acessar as Sprint 2 clique [aqui](https://github.com/Trium-Logistics/Trium-Logistics-2/tree/Sprint2).
 
 # Objetivo do Projeto
 
@@ -57,13 +51,26 @@ Este projeto tem como objetivo apresentar uma solução interativa de informaç�
 
 * Link para acessar o produto:
 
-https://app.powerbi.com/groups/me/reports/fe9772d8-ddc1-4158-a5d2-2840efa253ab/ReportSection2d76c8229517f2ace5ec?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&experience=power-bi
+https://fatecspgov-my.sharepoint.com/:f:/g/personal/marcelo_oliveira102_fatec_sp_gov_br/EtYCVG7t1MhOuIYeNwKkP10BEiwskbrLUSXLAPqkqi-KKg?e=0aMH1s
 
 
 ### Base de dados
 
-![base_de_dados](https://raw.githubusercontent.com/Trium-Logistics/Trium-Logistics-2/Sprint1/img/base_dados.jpeg)
+![base_de_dados](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/Sprint2/img/database_sprint_2.jpeg?raw=true)
 
+### Funções DAX dos produtos
+
+
+![dax jundiai](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/Sprint2/img/DAX_jundiai.jpeg?raw=true)
+Jundiaí
+
+
+![dax tauabte](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/Sprint2/img/DAX_taubate.jpeg?raw=true)
+Taubaté
+
+
+![dax sorocaba](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/Sprint2/img/DAX_sorocaba.jpeg?raw=true)
+Sorocaba
 
  ### Tecnológias Específicas/Apoio
 
@@ -77,7 +84,7 @@ https://app.powerbi.com/groups/me/reports/fe9772d8-ddc1-4158-a5d2-2840efa253ab/R
   
 <div align="center">
     
-![product backlog](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/main/img/backlog_produto.JPG?raw=true)
+![product backlog](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/Sprint2/img/backlog_sprint_2.jpeg?raw=true)
 </div>
 
 Regras de Negócio
@@ -91,7 +98,16 @@ Requisitos não funcionais
 - Usar tecnologias especifícas/apoio/tecnológicas
 - Metodologias ágil
 - Jira / 5W2H / PowerPoint
-  
+
+User stories
+
+# Burndown
+![burndown](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/Sprint2/img/burnup_sprint_2.png?raw=true)
+
+
+# Burnup
+![brunup](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/Sprint2/img/burndown_sprint_2.png?raw=true)
+
 
 ## Sprint 0. Concepção
 - [x] Estruturação do GitHub;
