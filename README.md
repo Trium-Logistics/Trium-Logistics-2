@@ -56,21 +56,14 @@ https://fatecspgov-my.sharepoint.com/:f:/g/personal/marcelo_oliveira102_fatec_sp
 
 ### Base de dados
 
-![base_de_dados](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/Sprint2/img/database_sprint_2.jpeg?raw=true)
+![base_de_dados](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/Feira-Solucoes/img/base_dados_final.jpeg?raw=true)
 
-### Funções DAX dos produtos
-
-
-![dax jundiai](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/Sprint2/img/DAX_jundiai.jpeg?raw=true)
-Jundiaí
+### Função DAX dos produtos
 
 
-![dax tauabte](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/Sprint2/img/DAX_taubate.jpeg?raw=true)
-Taubaté
+![dax](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/Feira-Solucoes/img/dax_feira.jpeg?raw=true)
 
 
-![dax sorocaba](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/Sprint2/img/DAX_sorocaba.jpeg?raw=true)
-Sorocaba
 
  ### Tecnológias Específicas/Apoio
 
@@ -78,9 +71,8 @@ Sorocaba
 * Jira Software;
 * GitHub;
 * Power Bi;
-* Excel.
- 
-# Backlog do produto
+
+ # Backlog do produto
   
 <div align="center">
     
@@ -102,11 +94,11 @@ Requisitos não funcionais
 User stories
 
 # Burndown
-![burndown](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/Sprint2/img/burnup_sprint_2.png?raw=true)
+![burndown](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/Feira-Solucoes/img/burndown_feira_solucoes.jpeg?raw=true)
 
 
 # Burnup
-![brunup](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/Sprint2/img/burndown_sprint_2.png?raw=true)
+![brunup](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/Feira-Solucoes/img/burnup_feira_solucoes.jpeg?raw=true)
 
 
 ## Sprint 0. Concepção
